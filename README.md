@@ -3,7 +3,7 @@
 
 > **Drishti** (Sanskrit: *vision, insight*) matches people to who they're **becoming** — not just who they've been.
 
-![Drishti — one-page overview](Drishti_V1.png)
+![Drishti — one-page overview](Drishti_V3.png)
 
 An AI career-matching agent built on one thesis: career decisions shouldn't rest only on your *past* (a resume), but on your **trajectory** — where you are now and where you're headed.
 
