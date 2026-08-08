@@ -14,6 +14,21 @@ Job seekers spend enormous time searching across boards whose recommendation eng
 
 **Example:** a candidate whose resume says *Product Manager* — but who is building AI applications, studying agentic AI and Responsible AI, and targeting AI Product Management — will be shown Product Manager roles forever. The transition is invisible to the machine, because the evidence of it lives outside the resume.
 
+## 1.5 Positioning — Two Streams That Never Talk
+
+Two systems shape a modern career, and they don't connect:
+
+- **Learning platforms (Coursera, etc.)** tell you *what to learn to reach your goals* — they are **future-facing**, built around who you want to become.
+- **Job platforms (LinkedIn, job boards)** match you to roles *based on your resume* — they are **past-facing**, built around who you have already been.
+
+**Continuous learners live in the gap between them.** They are actively building toward a future the job engines cannot see — taking courses, shipping projects, changing direction — while every recommendation still points backward.
+
+And the evidence of that *becoming* rarely lives in a resume. It lives on **GitHub, Medium, personal blogs, YouTube, and portfolios** — public proof of active skill-building that no resume-based platform reads.
+
+**Drishti merges both streams.** It treats current learning, public activity, and stated aspirations as first-class signals (Present + Future) — not noise to ignore — and matches them to opportunities, so the effort you put into *becoming* someone new finally shows up in what you are recommended. In later phases it closes the loop: identify the gap to your goal, then recommend the **learning path** to get there — connecting the two streams end to end.
+
+*(v1 captures these signals through the user's signals form — pasted links and self-reported activity. Automated ingestion of GitHub / Medium / video / portfolio content is a deliberate future phase; see the parked scope in §4.)*
+
 ## 2. Product Thesis & Core Design Principle
 
 > **Drishti = Resume (Past) + Activity (Present) + Aspirations (Future) → Opportunities + Gaps.**
